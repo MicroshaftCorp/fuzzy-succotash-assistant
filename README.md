@@ -1,2 +1,2 @@
-# fuzzy-succotash-trojan
-really just a virus
+# fuzzy-succotash
+Well?
